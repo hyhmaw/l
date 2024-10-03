@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\lb2.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B90770C2-4998-4635-B251-5DBAF9576B59}|lb2.1\\lb2.1.vcxproj|C:\\Users\\user\\source\\repos\\lb2.1\\lb2.1\\lb2.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B90770C2-4998-4635-B251-5DBAF9576B59}|lb2.1\\lb2.1.vcxproj|solutionrelative:lb2.1\\lb2.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lb2.1.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lb2.1\\lb2.1\\lb2.1.cpp",
+              "RelativeDocumentMoniker": "lb2.1\\lb2.1.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lb2.1\\lb2.1\\lb2.1.cpp",
+              "RelativeToolTip": "lb2.1\\lb2.1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-03T19:46:28.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
